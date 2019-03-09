@@ -16,4 +16,7 @@ const ShellSort = (arr) => {
       arr[j+gap] = key
     }
   }
+  return arr
 }
+
+//https://www.youtube.com/watch?v=SCBf7aqKQEY
